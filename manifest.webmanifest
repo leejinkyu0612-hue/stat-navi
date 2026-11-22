@@ -1,0 +1,19 @@
+{
+  "name": "분석법 내비 - 통계 분석법 찾기",
+  "short_name": "분석법 내비",
+  "description": "질문 몇 개로 내 데이터에 맞는 통계 분석법을 찾고, 바로 계산해보세요.",
+  "id": "statnavi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f3ee",
+  "theme_color": "#0f1a1c",
+  "lang": "ko",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
